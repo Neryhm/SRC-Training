@@ -15,3 +15,7 @@ int main(){
    printf("Xin chào SRC!");
    return 0;
 }
+/*
+   Em cảm thấy mình được tiếp thu nhiều kiến thức mới
+   Hi vọng có thể tiến xa hơn ạ 
+*/
