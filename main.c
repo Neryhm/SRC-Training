@@ -1,3 +1,14 @@
+/**
+ * @file main.c
+ * @author Nguyen Trung Kien 
+ * @brief 
+ * bai ve nha SRC
+ * @version 0.1
+ * @date 2023-11-07
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
 #include<stdio.h>
 int main(){
    printf("Xin chào SRC!");
